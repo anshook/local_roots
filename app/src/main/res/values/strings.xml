@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Local Roots</string>
+    <string name="no_data">No Data Found</string>
+    <string name="no_connection">No Internet Connection. Make sure Cellular Data or WiFi is turned on, then try again.</string>
+
+
+    <!-- Search Fragment -->
+    <string name="market_search_title">Find a Farmer Market</string>
+    <string name="zipcode_hint">Zip Code</string>
+    <string name="text_or">Or,</string>
+    <string name="search_by_location">Use My Current Location</string>
+    <string name="error_invalid_zipcode">Zip Code must be a 5-digit number</string>
+    <string name="loc_permission_denied">Location permission request was denied</string>
+    <string name="loc_permission_granted">Location permission granted. You may search for Markets near you.</string>
+    <string name="cd_search">Search</string>
+
+    <!-- Market List Fragment -->
+    <string name="something_went_wrong">Unable to fetch data. Please try again later.</string>
+    <string name="no_results">No Results Found</string>
+    <string name="text_miles">miles</string>
+    <string name="cd_error_image">Error</string>
+    <string name="cd_list_fab">Switch to List view</string>
+    <string name="cd_map_fab">Switch to Map view</string>
+    <string name="result_title_default">Markets near you</string>
+    <string name="result_title_prefix">Markets near</string>
+
+    <!-- Market Details Fragment -->
+    <string name="address_label">Address</string>
+    <string name="schedule_label">Schedule</string>
+    <string name="products_label">Products</string>
+    <string name="blank_detail">Information not available</string>
+    <string name="favorite_button_tooltip">Add to Favorites</string>
+    <string name="unfavorite_button_tooltip">Remove from Favorites</string>
+    <string name="cd_favorite_fab">Add/remove from Favorites</string>
+
+    <!-- Favorites Fragment -->
+    <string name="favorites_title">Favorites</string>
+    <string name="cd_remove">Remove</string>
+
+    <!-- Widget -->
+    <string name="widget_title">Local Roots - Recently Viewed:</string>
+    <string name="no_recent_items">You have no recently viewed markets</string>
+
+</resources>
