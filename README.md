@@ -4,6 +4,25 @@ Application for convenient access to local farmer markets. Search for farmer mar
 Disclaimer:
 This product uses [USDA’s National Farmers Market API](https://search.ams.usda.gov/farmersmarkets/v1/svcdesc.html) but is not endorsed or certified by USDA.
 
+<h4>Features</h4>
+
+  - Find farmer markets near device location
+  - Lookup farmer market by zip code 
+  - List markets by distance from search location
+  - View market locations on map
+  - Market details include name, address, days/hours of operation, offered products
+  - Add markets to favorites, and remove them
+  
+<h4>Libraries Used</h4>
+
+  - ButterKnife
+  - Retrofit
+  - Room
+  - Lifecycle
+  - Timber
+  - Google Location
+  - Google Map
+
 <h5>Rubric</h5>
 <h6>Common Project Requirements</h6>
 
